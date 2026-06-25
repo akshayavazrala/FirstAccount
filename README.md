@@ -142,15 +142,3 @@ src/
 This project is a frontend prototype created for demonstration and hackathon purposes only.
 
 No real banking APIs, customer data, payment systems, authentication services, OCR engines, or AI models are integrated in this version.
-
----
-
-## Team
-
-Developed as part of a Banking Customer Acquisition Hackathon Project.
-
----
-
-## License
-
-This project is intended for educational, research, and hackathon demonstration purposes.
